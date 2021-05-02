@@ -16,9 +16,8 @@ I'm always trying to grow and learn something new. My hobbies are playing the gu
 Currently improving my front-end skills: Html, Css, Js, React and Python (OpenCV).
 
 ## Find me elsewhere...📫💬
-**LinkedIn: **https://www.linkedin.com/in/santiago-sarmiento
+**LinkedIn:** https://www.linkedin.com/in/santiago-sarmiento
 
 **Google:** santiagojss1@gmail.com
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](C:\Users\Santiago\Downloads\wp2337059-lo-fi-wallpapers)
