@@ -20,4 +20,3 @@ Currently improving my front-end skills: Html, Css, Js, React and Python (OpenCV
 
 **Google:** santiagojss1@gmail.com
 
-![GitHub Logo](C:\Users\Santiago\Downloads\wp2337059-lo-fi-wallpapers)
