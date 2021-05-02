@@ -18,7 +18,7 @@ Currently improving my front-end skills: Html, Css, Js, React and Python (OpenCV
 ## Find me elsewhere...📫💬
 **LinkedIn:** https://www.linkedin.com/in/santiago-sarmiento
 
-**Google:** santiagojss1@gmail.com
+**Mail:** santiagojss32@gmail.com
 
-**Facebook:** facebook.com/santiagojss1/
+**Facebook:** facebook.com/santiagojss1
 
