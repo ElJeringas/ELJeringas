@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ## Hi there! I'm Santiago Sarmiento 😄👋
 
@@ -10,24 +9,16 @@ I've formed part of Axes project that search to be part of the disruptive educat
 
 Recently i was learning about front end programming, studying html, css , js. 🌱
 
-I'm always trying to grow and learn something new. My hobbies are playing the guitar, studying languages, reading, and go to run.
+I'm always trying to grow and learn something new. My hobbies are playing the guitar,listen music, studying languages, reading, and go to run.
 
 ## What I'm focusing on.⚡
 
 Currently improving my front-end skills: Html, Css, Js, React and Python (OpenCV).
 
 ## Find me elsewhere...📫💬
-LinkedIn: https://www.linkedin.com/in/santiago-sarmiento
-Google: santiagojss1@gmail.com
+**LinkedIn: **https://www.linkedin.com/in/santiago-sarmiento
 
-Here are some ideas to get you started:
+**Google:** santiagojss1@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
