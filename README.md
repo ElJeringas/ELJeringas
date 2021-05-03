@@ -9,7 +9,7 @@ I've formed part of Axes project that search to be part of the disruptive educat
 
 Recently i was learning about front-end programming, studying: html, css , js. 🌱
 
-I'm always trying to grow and learn something new. My hobbies are playing the guitar,listen music, studying languages, practice yoga, reading, and go to run 🏃.
+I'm always trying to grow and learn something new. My hobbies are playing the guitar,listen to music, studying languages, practice yoga, reading, and go to run 🏃.
 
 ## What I'm focusing on.⚡
 
