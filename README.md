@@ -13,7 +13,7 @@ I'm always trying to grow and learn something new. My hobbies are playing the gu
 
 ## What I'm focusing on.⚡
 
-Currently improving my front-end skills: Html, Css, Js, React.
+Currently improving my front-end skills: Html, Css, Js, Reactjs.
 Learning more about Python and all respect to computer vision and image processing...
 
 ## Find me elsewhere...📫💬
