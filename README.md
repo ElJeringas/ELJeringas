@@ -1,5 +1,5 @@
 
-## Hi there! I'm Santiago Sarmiento 😄👋
+## Hi there! I'm Santiago Sarmiento :octocat:😄👋
 
 I'm an electronic and telecommunication engineer 🎓. I'm based in Loja, Ecuador.
 
