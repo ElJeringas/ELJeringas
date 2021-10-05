@@ -1,5 +1,5 @@
 
-## Hi there!:octocat:😄👋
+## Hi there! I'm Santiago:octocat:😄👋
 
 I'm an electronic and telecommunication engineer 🎓. I'm based in Loja, Ecuador.
 
