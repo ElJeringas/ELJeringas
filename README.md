@@ -21,6 +21,6 @@ Learning more about Python and all respect to computer vision and image processi
 
 **Mail:** santiagojss32@gmail.com
 
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
  **Facebook:** facebook.com/santiagojss1
 
