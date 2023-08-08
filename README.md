@@ -4,31 +4,6 @@
 
 I'm an Electronics and Telecommunication engineer 🤖📶 based in Ecuador. While my field of expertise is communication networking, I developed programming and web development skills throughout my career. My experience covers Electronics, IT, Programming, Cisco Networking, and Telecommunications Networking.
 
-My technical skills:
-
-⁙ Javascript
-⁙ Python
-⁙ ReactJS
-⁙ Adobe XD
-⁙  Material UI
-⁙ HTML5
-⁙ CSS
-⁙ Git
-⁙ Cisco (CCNP Core Networking) 
-⁙ Voice over Internet Protocol (VoIP)
-⁙  Electronics and Automation
-
-But my interests continue beyond there. I'm always exploring new horizons, whether it's learning a new language, delving into computer vision, mastering effective communication, or simply diving into a good book. And with fluency in both Spanish and English, I'm well-equipped to tackle any challenge.
-
-Ready to connect with a versatile engineer with a passion for lifelong learning? Let's get the conversation started!
-
-#engineeringlife #Ecuador #networking #programmer #telecoms
-
-## What I'm focusing on.⚡
-
-Currently improving my front-end skills: Html, Css, Js, Reactjs.
-Learning more about Python and all respect to computer vision and image processing...
-
 ## My Skill Set 👓
 
 <img  alt="html" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></img>
@@ -42,6 +17,18 @@ Learning more about Python and all respect to computer vision and image processi
 <img  alt="python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></img>
 <img  alt="matlab" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"></img>
 <img  alt="c++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></img>
+
+
+But my interests continue beyond there. I'm always exploring new horizons, whether it's learning a new language, delving into computer vision, mastering effective communication, or simply diving into a good book. And with fluency in both Spanish and English, I'm well-equipped to tackle any challenge.
+
+Ready to connect with a versatile engineer with a passion for lifelong learning? Let's get the conversation started!
+
+#engineeringlife #Ecuador #networking #programmer #telecoms
+
+## What I'm focusing on.⚡
+
+Currently improving my front-end skills: Html, Css, Js, Reactjs.
+Learning more about Python and all respect to computer vision and image processing...
 
 
 
