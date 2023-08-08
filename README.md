@@ -2,15 +2,27 @@
 ## Hi there! I'm Santiago :octocat:👋
 <img align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="230" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%;">
 
-I'm an electronic and telecommunication engineer 🎓. I'm based in Loja, Ecuador.
+I'm an Electronics and Telecommunication engineer 🤖📶 based in Ecuador. While my field of expertise is communication networking, I developed programming and web development skills throughout my career. My experience covers Electronics, IT, Programming, Cisco Networking, and Telecommunications Networking.
 
-Since, 2016 I've been searching and develeoping about Computer Vision and image processing. I've had the chance to work in this projects in UTPL as part of my internship in this college.
+My technical skills:
 
-I've formed part of Axes project that search to be part of the disruptive education in my country (Ecuador) throughout incorporate methods of computer vision and low cost and open source projects..👯 
+⁙ Javascript
+⁙ Python
+⁙ ReactJS
+⁙ Adobe XD
+⁙  Material UI
+⁙ HTML5
+⁙ CSS
+⁙ Git
+⁙ Cisco (CCNP Core Networking) 
+⁙ Voice over Internet Protocol (VoIP)
+⁙  Electronics and Automation
 
-Recently i was learning about front-end programming, studying: html, css , js. 🌱
+But my interests continue beyond there. I'm always exploring new horizons, whether it's learning a new language, delving into computer vision, mastering effective communication, or simply diving into a good book. And with fluency in both Spanish and English, I'm well-equipped to tackle any challenge.
 
-I'm always trying to grow and learn something new. My hobbies are playing the guitar,listen to music, studying languages, practice yoga, reading, and go to run 🏃.
+Ready to connect with a versatile engineer with a passion for lifelong learning? Let's get the conversation started!
+
+#engineeringlife #Ecuador #networking #programmer #telecoms
 
 ## What I'm focusing on.⚡
 
