@@ -1,6 +1,6 @@
 
 ## Hi there! I'm Santiago :octocat:👋
-<img align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="230" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%;">
+<img align="right" src="https://www.pinterest.com/pin/pinterest-in-2023--19351473392274655/" style="max-width: 100%;">
 
 I'm an Electronics and Telecommunication engineer 🤖📶 based in Ecuador. While my field of expertise is communication networking, I developed programming and web development skills throughout my career. My experience covers Electronics, IT, Programming, Cisco Networking, and Telecommunications Networking.
 
