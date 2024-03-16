@@ -1,8 +1,9 @@
 
 ## Hi there! I'm Santiago :octocat:👋
-<img align="right" src="https://www.pinterest.com/pin/pinterest-in-2023--19351473392274655/" style="max-width: 100%;">
 
-I'm an Electronics and Telecommunication engineer 🤖📶 based in Ecuador. While my field of expertise is communication networking, I developed programming and web development skills throughout my career. My experience covers Electronics, IT, Programming, Cisco Networking, and Telecommunications Networking.
+
+I'm an Electronics and Telecommunication engineer 🤖📶 based in Ecuador. While my field of expertise is communication networking, I developed programming and web development skills throughout my career. My experience covers Electronics, IT, Programming, Cisco Networking, and Telecommunications Networking.<br/><br/>
+<img src="https://github.com/ElJeringas/ELJeringas/assets/80928085/7ee6c17a-0e50-4113-9bd0-5c305761b2a0" alt="image" width="250px"/>
 
 ## My Skill Set 👓
 
